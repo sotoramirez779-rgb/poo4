@@ -20,4 +20,4 @@ ordenamiento.
 Prestable (interfaz) -> Material (abstracta) -> Libro, Revista
 
 ## Video de exposición
-[Ver en YouTube](PEGAR_ENLACE_AQUI)
+[Ver en YouTube](https://www.youtube.com/watch?v=TEVvy9ONSvk)
